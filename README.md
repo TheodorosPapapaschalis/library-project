@@ -20,3 +20,13 @@ This project focuses on efficient data management using advanced data structures
 1. Clone the repository:
    ```bash
    git clone [https://github.com/TheodorosPapapaschalis/library-project.git](https://github.com/TheodorosPapapaschalis/library-project.git)
+
+Compile the project:
+
+Bash
+make
+
+Run the program:
+
+Bash
+./library test.txt
