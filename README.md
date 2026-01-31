@@ -14,19 +14,26 @@ This project focuses on efficient data management using advanced data structures
 ## 💻 Technologies Used
 - **Language:** C
 - **Build Tool:** Makefile
-- **Data Structures:** Linked Lists, Structs, Custom Dynamic Arrays.
+- **Data Structures:** Linked Lists, Structs, and Custom Dynamic Arrays.
 
 ## 🔧 How to Run
-1. Clone the repository:
+
+1. **Clone the repository:**
    ```bash
    git clone [https://github.com/TheodorosPapapaschalis/library-project.git](https://github.com/TheodorosPapapaschalis/library-project.git)
+   ```
 
-Compile the project:
+2. **Compile the project:**
+   Use the Makefile to generate the executable:
+   ```bash
+   make
+   ```
 
-Bash
-make
+3. **Run the program:**
+   Execute the application (replace `test.txt` with your input file):
+   ```bash
+   ./library test.txt
+   ```
 
-Run the program:
-
-Bash
-./library test.txt
+## 📝 Author
+* **Theodoros Papapaschalis** - [GitHub Profile](https://github.com/TheodorosPapapaschalis)
